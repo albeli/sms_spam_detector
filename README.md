@@ -1,5 +1,3 @@
-Here's a suggested README.md for your SMS classification project which uses a machine learning model to predict if a text is spam or not, with a Gradio interface for user interaction.
-
 
 # SMS Spam Classification App
 
